@@ -3,21 +3,18 @@ title = 'Professor Andrea Caputo'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 
+# Site Parameters
 [params]
   description = 'Official website of Professor Andrea Caputo.'
   author = 'Andrea Caputo'
-
+  homepage = "home"
 
 # Theme Module
 theme = 'academic'
 
-# Set Homepage
-[params]
-  homepage = "home"
-
+# Module Imports
 [module]
   [[module.imports]]
     path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind"
   [[module.imports]]
     path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify"
-
