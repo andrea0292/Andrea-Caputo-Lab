@@ -54,3 +54,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+# Disable CSS minification to prevent overwriting wc.min.css
+minify:
+  disableCSS: true
+
+# Ensure custom CSS is included
+assets:
+  custom_css: 
+    - css/custom.css

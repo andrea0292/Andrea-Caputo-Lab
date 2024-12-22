@@ -8,6 +8,12 @@ appearance:
   mode: system
   color: emerald
 
+# Avatar settings
+avatar:
+  shape: circle  # Options: circle, square
+  size: large    # Options: small, medium, large
+  border: true   # Add a border around the avatar (true/false)
+
 # SEO
 marketing:
   seo:
@@ -35,7 +41,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Prof. Andrea Caputo"
 
 # Site footer
 footer:
@@ -58,3 +64,5 @@ features:
     enable: false
   privacy_pack:
     enable: false
+  customCSS:
+    - css/custom.css
