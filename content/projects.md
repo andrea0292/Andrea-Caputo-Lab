@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: For a list of the projects I have been working, making codes public, check my GitHub page https://github.com/andrea0292?tab=repositories.
       filters:
         folders:
           - project
