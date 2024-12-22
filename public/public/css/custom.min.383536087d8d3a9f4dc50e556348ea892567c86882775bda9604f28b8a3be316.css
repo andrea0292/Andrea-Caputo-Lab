@@ -1,0 +1,19 @@
+/* Refine Avatar Size and Position */
+.resume-biography .avatar {
+    width: 200px !important; /* Adjust size */
+    height: 200px !important; /* Adjust size */
+    max-width: 200px !important;
+    max-height: 200px !important;
+    object-fit: cover !important;
+    border-radius: 70% !important;
+    border: 2px solid #fff !important;
+}
+
+/* Adjust the Wrapper for Position */
+.avatar-wrapper {
+    margin-top: 2rem !important; /* Adjust vertical spacing */
+    margin-bottom: 1rem !important; /* Space below the avatar */
+    text-align: center !important; /* Center horizontally */
+}
+
+

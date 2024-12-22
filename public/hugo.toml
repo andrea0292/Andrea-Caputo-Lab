@@ -1,0 +1,20 @@
+baseURL = 'https://andrea0292.github.io/Andrea-Caputo-Lab/'
+title = 'Professor Andrea Caputo'
+languageCode = 'en-us'
+defaultContentLanguage = 'en'
+
+# Site Parameters
+[params]
+  description = 'Official website of Professor Andrea Caputo.'
+  author = 'Andrea Caputo'
+  homepage = "home"
+
+# Theme Module
+theme = 'academic'
+
+# Module Imports
+[module]
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind"
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify"

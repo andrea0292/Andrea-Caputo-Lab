@@ -1,0 +1,8 @@
+/* Ensure the author's avatar is larger */
+.author__avatar {
+    width: 450px !important;
+    height: 450px !important;
+    border-radius: 80%; /* Keeps the image circular */
+    object-fit: cover; /* Ensures the image scales properly */
+}
+
