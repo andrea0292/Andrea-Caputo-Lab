@@ -4,8 +4,8 @@ name: Andrea Caputo
 role: >
   Associate Professor of Theoretical Physics  
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 1rem; margin-bottom: 1.5rem;">
-    <img src="/uploads/sapienza-logo.png" alt="Sapienza University" style="height: 250px; max-width: 300px;">
-    <img src="/uploads/CERN-Logo.png" alt="CERN" style="height: 150px; max-width: 200px;">
+    <img src="uploads/sapienza-logo.png" alt="Sapienza University" style="height: 250px; max-width: 300px;">
+    <img src="uploads/CERN-Logo.png" alt="CERN" style="height: 150px; max-width: 200px;">
   </div>
 organization: Sapienza University of Rome & CERN Theory Division
 avatar: Io24.png
