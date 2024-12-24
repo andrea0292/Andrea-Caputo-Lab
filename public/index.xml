@@ -54,12 +54,12 @@
       <link>http://localhost:1313/Andrea-Caputo-Lab/teaching/metodimatematici/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Andrea-Caputo-Lab/teaching/metodimatematici/</guid>
-      <description>&lt;p&gt;This course covers advanced mathematical models and methods applied to theoretical physics. Topics included are Hilbert spaces, Fourier Series, Fourier Transforms, theory of distributions, partial differential equations.
-Some useful texts are:&lt;/p&gt;
+      <description>&lt;p&gt;Questo corso copre modelli e metodi matematici avanzati applicati alla fisica teorica. Gli argomenti trattati includono spazi di Hilbert, serie di Fourier, trasformate di Fourier, teoria delle distribuzioni ed equazioni differenziali alle derivate parziali.
+Alcuni testi utili sono&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;For Fourier Series and Transforms: Ronald Bracewell - The Fourier Transform and Its Applications; Silverman, Richard A.Tolstov, Georgii Pavlovich - Fourier Series.&lt;/li&gt;
-&lt;li&gt;Partial differential equations: Sommerfeld - Partial Differential Equations in Physics; Nakhle H. Asmar - Partial Differential Equations with Fourier Series and Boundary Value Problems.&lt;/li&gt;
-&lt;li&gt;General books: R. Courant, D. Hilbert - Methods of Mathematical Physics; Jon Mathews, Robert L. Walker - Mathematical Methods of Physics (based on Feynman&amp;rsquo;s course at Caltech); A. N. Kolmogorov: Elements of the Theory of Functions and Functional Analysis.&lt;/li&gt;
+&lt;li&gt;Per le Serie e le Trasformate di Fourier: Ronald Bracewell - The Fourier Transform and Its Applications; Silverman, Richard A.Tolstov, Georgii Pavlovich - Fourier Series.&lt;/li&gt;
+&lt;li&gt;Equazioni Differenziali alle Derivate Parziali: Sommerfeld - Partial Differential Equations in Physics; Nakhle H. Asmar - Partial Differential Equations with Fourier Series and Boundary Value Problems.&lt;/li&gt;
+&lt;li&gt;Generali: R. Courant, D. Hilbert - Methods of Mathematical Physics; Jon Mathews, Robert L. Walker - Mathematical Methods of Physics (based on Feynman&amp;rsquo;s course at Caltech); A. N. Kolmogorov: Elements of the Theory of Functions and Functional Analysis.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -261,7 +261,7 @@ Some useful texts are:&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-438265719&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-275436918&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -279,7 +279,7 @@ Some useful texts are:&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-438265719&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-275436918&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
