@@ -46,7 +46,7 @@ sections:
       text: |
         I am a particle physicist with a focus on innovative dark matter searches, both using direct and indirect detection. I particularly enjoy working at the interface with astrophysics and cosmology, using the plethora of data at our disposal.
         
-        Reach out if you want to work with me.
+        If you want to work with me and/or you have any questions, reach out at a.caputo@uniroma1.it or andrea.caputo@cern.ch.
     design:
       columns: '1'
 
