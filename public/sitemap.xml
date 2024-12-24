@@ -14,10 +14,6 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/teaching/</loc>
-    <lastmod>2025-04-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/Andrea-Caputo-Lab/author/andrea-caputo/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,31 +26,11 @@
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/publication/dark-matter-in-the-ionosphere/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/Andrea-Caputo-Lab/author/carl-beadle/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/Andrea-Caputo-Lab/tags/dark-matter/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/tags/dark-sector-physics/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/author/edoardo-vitagliano/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/author/georg-raffelt/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/tags/muon-philic-bosons/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,19 +42,11 @@
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/publication/dark-matter-in-the-ionosphere/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/Andrea-Caputo-Lab/author/sebastian-a.-r.-ellis/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/tags/sn1987a/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/tags/supernova/</loc>
-    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/publication/snmuon-redux/</loc>
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,7 +54,47 @@
     <lastmod>2024-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/event/</loc>
+    <lastmod>2024-12-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/event/workshopseoul/</loc>
+    <lastmod>2024-12-02T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/teaching/metodimatematici/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/teaching/problemi/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/teaching/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/author/alexander-a.-philippov/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/publication/axionspulsars/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/author/samuel-j.-witte/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/author/ted-jacobson/</loc>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/Andrea-Caputo-Lab/projects/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/projects_old/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,23 +114,23 @@
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/old_projects/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/Andrea-Caputo-Lab/oldexample_posts/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/project/pandas/</loc>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/old_projects/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/project/</loc>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/old_projects/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/project/pytorch/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Andrea-Caputo-Lab/project/scikit/</loc>
+    <loc>http://localhost:1313/Andrea-Caputo-Lab/old_projects/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

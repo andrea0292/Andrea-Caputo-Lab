@@ -22,9 +22,8 @@ sections:
         - **Galactic Dynamics** with Fuzzy Dark Matter.
         - **Cosmological Simulations** with different dark matter models.
 
-        I’m passionate about exploring the universe through simulations and analytical models.
+        I’m passionate about exploring the universe through simulations and analytical models. You can check my [iNSPIRE-HEP](https://inspirehep.net/authors/1498218?ui-citation-summary=true) profile to see what my research is about more in detail.
 
-        [Explore My Research](research/)
       button:
         text: Download CV
         url: uploads/resume.pdf

@@ -1,5 +1,5 @@
 ---
-title: "Axion-Photon Conversion in the Earth's Ionosphere: New Constraints from Radio Observations"
+title: "Resonant Conversion of Wave Dark Matter in the Ionosphere"
 authors:
   - Carl Beadle
   - Andrea Caputo
