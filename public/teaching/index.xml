@@ -17,7 +17,13 @@
       <link>http://localhost:1313/Andrea-Caputo-Lab/teaching/metodimatematici/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Andrea-Caputo-Lab/teaching/metodimatematici/</guid>
-      <description>&lt;p&gt;This course covers advanced mathematical models and methods applied to theoretical physics. Topics included are Hilbert spaces, Fourier Series, Fourier Transforms, theory of distributions, partial differential equations.&lt;/p&gt;
+      <description>&lt;p&gt;This course covers advanced mathematical models and methods applied to theoretical physics. Topics included are Hilbert spaces, Fourier Series, Fourier Transforms, theory of distributions, partial differential equations.
+Some useful texts are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;For Fourier Series and Transforms: Ronald Bracewell - The Fourier Transform and Its Applications; Silverman, Richard A.Tolstov, Georgii Pavlovich - Fourier Series.&lt;/li&gt;
+&lt;li&gt;Partial differential equations: Sommerfeld - Partial Differential Equations in Physics; Nakhle H. Asmar - Partial Differential Equations with Fourier Series and Boundary Value Problems.&lt;/li&gt;
+&lt;li&gt;General books: R. Courant, D. Hilbert - Methods of Mathematical Physics; Jon Mathews, Robert L. Walker - Mathematical Methods of Physics (based on Feynman&amp;rsquo;s course at Caltech); A. N. Kolmogorov: Elements of the Theory of Functions and Functional Analysis.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
@@ -27,6 +33,9 @@
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/Andrea-Caputo-Lab/teaching/problemi/</guid>
       <description>&lt;p&gt;Collections of problems of mathematics and physics. Feel free to email me your solutions for whatever problem(s) you solved.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;Problemi_Caputo.pdf&#34;&gt;📄 Download Problemi e Grattacapi 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
