@@ -6,6 +6,6 @@ type: docs
 math: false
 ---
 
-Collections of problems of mathematics and physics. Feel free to email me your solutions for whatever problem(s) you solved. 
+Collezione di problemi matematici e fisici. Chi si diverte a risolverne uno (o più di uno) può inviarmi la soluzione a a.caputo@uniroma1.it o andrea.caputo@cern.ch.
 
 1. [📄 Download Problemi e Grattacapi 1](Problemi_Caputo.pdf)
