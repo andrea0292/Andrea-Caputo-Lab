@@ -12,8 +12,13 @@
 @media(max-width:650px){.hero-pi{gap:12px}.hero-pi strong{font-size:1.45rem}.hero-pi span span{font-size:.76rem}.pi{display:grid;grid-template-columns:minmax(0,118px) minmax(0,1fr);align-items:start}.pi>img{width:100%}}
 @media(max-width:380px){.pi{grid-template-columns:1fr}.pi>img{width:140px}}
 
-/* The portrait leads the page, including on phones. */
-.hero-with-portrait{grid-template-columns:clamp(272px,31vw,400px) minmax(0,1fr);gap:clamp(32px,5.5vw,82px);padding-block:clamp(26px,3.6vw,55px)}
-.lead-portrait{display:block;width:100%;overflow:hidden;border:1px solid #647677;border-radius:4px;background:#263940}
-.lead-portrait img{display:block;width:100%;height:clamp(340px,35vw,450px);object-fit:cover;object-position:50% 4%}
-@media(max-width:700px){.hero-with-portrait{grid-template-columns:minmax(0,1fr);gap:18px;padding-block:20px 30px}.lead-portrait{width:min(100%,420px)}.lead-portrait img{height:clamp(240px,74vw,325px);object-position:50% 4%}}
+/* Keep the large portrait alongside the original Galactic-center illustration. */
+.hero-with-portrait{grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:clamp(20px,3vw,45px);padding-block:clamp(26px,3.6vw,55px)}
+.hero-identity{display:grid;grid-template-columns:minmax(0,400px) minmax(130px,.85fr);align-items:center;gap:clamp(12px,1.4vw,20px)}
+.lead-portrait{display:block;width:100%;max-width:400px;overflow:hidden;border:1px solid #647677;border-radius:4px;background:#263940}
+.lead-portrait img{display:block;width:100%;height:auto;aspect-ratio:400/450;object-fit:cover;object-position:50% 4%}
+.hero-with-portrait .hero-figure{width:100%;margin:0;align-self:center}.hero-with-portrait .hero-figure img{width:100%;height:auto}
+@media(min-width:701px) and (max-width:960px){.hero-identity{grid-template-columns:1fr}.lead-portrait{max-width:300px}}
+@media(max-width:700px){.hero-with-portrait{grid-template-columns:minmax(0,1fr);gap:18px;padding-block:20px 30px}.hero-identity{grid-template-columns:1fr;gap:12px}.lead-portrait{width:min(100%,400px)}.lead-portrait img{height:clamp(240px,74vw,325px);object-position:50% 4%}.hero-with-portrait .hero-figure{width:min(100%,460px);justify-self:center}}
+.madgrid-feature{display:grid;grid-template-columns:minmax(0,.82fr) minmax(0,1.18fr);align-items:center;gap:clamp(22px,4vw,55px);margin-top:36px;border-top:1px solid var(--line);padding-top:30px}.madgrid-copy h3{margin:6px 0 12px}.madgrid-copy>p:not(.tag){font-size:.95rem;color:var(--body)}.madgrid-diagram a{display:block;text-decoration:none}.madgrid-diagram img{width:100%;height:auto;border:1px solid var(--line);background:#fff}.madgrid-diagram a>span{display:inline-block;font-size:.8rem;font-weight:600;color:var(--green);margin-top:6px}.madgrid-diagram a:hover>span{text-decoration:underline}
+@media(max-width:700px){.madgrid-feature{grid-template-columns:minmax(0,1fr);gap:16px}}
