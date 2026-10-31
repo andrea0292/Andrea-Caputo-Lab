@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 132">
+<title>Possible encounter that would leave S301 bound and eject S5-HVS1</title>
+<rect width="540" height="132" fill="#e8eeea"/>
+<g fill="none"><ellipse cx="189" cy="72" rx="72" ry="25" transform="rotate(-12 189 72)" stroke="#477b75" stroke-width="1.65"/>
+<path d="M60 119 Q162 88 222 63 T440 19" stroke="#af7748" stroke-width="1.7" stroke-dasharray="5 3"/>
+<path d="m427 16 14 3-12 8" stroke="#af7748" stroke-width="1.7"/>
+<path d="m153 95-8 14h-31m131-43 9 15h20" stroke="#788d84" stroke-width=".9"/></g>
+<circle cx="126" cy="85" r="4.3" fill="#213f43"/><circle cx="153" cy="94" r="3.8" fill="#497c75"/><circle cx="368" cy="30" r="3.9" fill="#ad7243"/>
+<g font-family="monospace" font-size="11.5" fill="#314f4e"><text x="73" y="82">Sgr A*</text><text x="73" y="115">S301</text><text x="361" y="54">S5-HVS1</text></g>
+</svg>
