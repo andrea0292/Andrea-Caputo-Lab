@@ -25,3 +25,5 @@
 
 .roster li{display:grid;grid-template-columns:54px minmax(0,1fr);align-items:center;gap:10px;margin:0 0 12px}.roster .member-photo{display:block;width:54px;height:auto;aspect-ratio:160/184;border-radius:3px;object-fit:cover}
 @media(max-width:470px){.roster{grid-template-columns:1fr;gap:10px}.roster li{grid-template-columns:48px minmax(0,1fr)}.roster .member-photo{width:48px}}
+
+.hebrew-name{display:block;width:fit-content;max-width:100%;font:400 1rem/1.35 Arial,sans-serif;letter-spacing:normal}.hero-pi .hebrew-name{color:#c8d6d3}.pi .hebrew-name{margin-top:.25rem;color:var(--body)}
